@@ -34,16 +34,16 @@
 > *(Add your project links later — here are placeholders for you to replace)*
 
 - **Project One** — *Short description here*  
-  https://github.com/nitin-7781/project-one  
+  https://github.com/nitin9706/project-one  
 
 - **Project Two** — *Short description here*  
-  https://github.com/nitin-7781/project-two  
+  https://github.com/nitin9706/project-two  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin-7781&show_icons=true&theme=default&hide=contribs,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin9706&show_icons=true&theme=default&hide=contribs,prs" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-7781&layout=compact&theme=default" />
 </p>

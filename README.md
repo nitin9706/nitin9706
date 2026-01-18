@@ -45,7 +45,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nitin9706&show_icons=true&theme=default&hide=contribs,prs" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-7781&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin9706&layout=compact&theme=default" />
 </p>
 
 ---

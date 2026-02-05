@@ -1,53 +1,86 @@
-<h1 align="center">Hi 👋 I'm Nitin Sharma</h1>
-<p align="center"><b>Front-end Developer | React Developer | Learning Next.js</b></p>
+# 👋 Hi, I'm Nitin Sharma  
+
+🚀 **Cloud Engineer | DevOps Engineer | Backend Enthusiast**  
+💻 Passionate about building scalable, reliable, and automated systems  
 
 ---
 
-## 📌 About Me
-- 🎓 Currently studying and building mini frontend projects  
-- ⚛️ Strong focus on **React** and modern JavaScript  
-- 🌱 Currently learning **Next.js** and backend concepts  
-- 💬 Ask me about: **React, JavaScript, UI building**
+## ☁️ About Me  
+
+I'm a **Cloud & DevOps Engineer** with hands-on experience in designing, deploying, and managing cloud-native applications.  
+I enjoy working with **containers, CI/CD pipelines, cloud infrastructure**, and turning ideas into production-ready systems.
+
+🔹 Strong focus on **automation, scalability, and reliability**  
+🔹 Love working with **Docker, AWS, CI/CD, and backend systems**  
+🔹 Always learning & improving system design and cloud architecture  
 
 ---
 
-## 📧 Contact
-- **Email:** unknowngamer931@gmail.com  
+## 🛠️ Tech Stack  
+
+### 🚀 Cloud & DevOps  
+- **AWS** (EC2, IAM, S3, RDS, VPC)  
+- **Docker & Docker Compose**  
+- **CI/CD** (GitHub Actions)  
+- **Linux & Shell Scripting**  
+- **Nginx**  
+
+### ⚙️ Backend & Databases  
+- **Node.js & Express.js**  
+- **MySQL**  
+- **REST APIs**  
+
+### 🧰 Tools & Platforms  
+- Git & GitHub  
+- Postman  
+- VS Code  
 
 ---
 
-## 🛠️ Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+## 📦 Featured Projects  
+
+### 🔹 Full Stack Notes App (Dockerized)
+- React frontend + Express backend  
+- MySQL database  
+- Fully containerized using **Docker & Docker Compose**  
+- Focus on clean API design & container orchestration  
+
+🔗 **Repo:** https://github.com/nitin9706/Full-stack-notes-app  
+
+---
+
+### 🔹 DevOps Practice & Automation  
+- Dockerized applications  
+- CI/CD pipeline experiments  
+- Cloud deployment practices  
+
+🔗 **More projects:** https://github.com/nitin9706  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin9706&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin9706&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## ⭐ Featured Projects
-> *(Add your project links later — here are placeholders for you to replace)*
+## 🎯 What I'm Currently Focusing On  
 
-- **Project One** — *Short description here*  
-  https://github.com/nitin9706/project-one  
-
-- **Project Two** — *Short description here*  
-  https://github.com/nitin9706/project-two  
+- Advanced **AWS services & architecture**  
+- **Kubernetes** fundamentals  
+- Production-grade **CI/CD pipelines**  
+- Infrastructure as Code (IaC)  
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin9706&show_icons=true&theme=default&hide=contribs,prs" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin9706&layout=compact&theme=default" />
-</p>
+## 📫 Connect With Me  
+
+- 💼 GitHub: https://github.com/nitin9706  
+- 📧 Email: *your-email-here*  
 
 ---
 
-<p align="center"><i>"Keep learning. Keep building."</i></p>
+⭐ **If you like my work, feel free to star the repositories!**  

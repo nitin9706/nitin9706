@@ -1,60 +1,46 @@
-# 👋 Hi, I'm Nitin Sharma  
-
-🚀 **Cloud Engineer | DevOps Engineer | Backend Enthusiast**  
-💻 Passionate about building scalable, reliable, and automated systems  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Nitin+Sharma+%F0%9F%91%8B;Cloud+Engineer;DevOps+Engineer;Frontend+Engineer" />
+</p>
 
 ---
 
 ## ☁️ About Me  
 
-I'm a **Cloud & DevOps Engineer** with hands-on experience in designing, deploying, and managing cloud-native applications.  
-I enjoy working with **containers, CI/CD pipelines, cloud infrastructure**, and turning ideas into production-ready systems.
+🚀 **Cloud Engineer | DevOps Engineer | Frontend Engineer**  
 
-🔹 Strong focus on **automation, scalability, and reliability**  
-🔹 Love working with **Docker, AWS, CI/CD, and backend systems**  
-🔹 Always learning & improving system design and cloud architecture  
+I build **scalable, automated, and cloud-native applications** with a strong focus on **reliability, performance, and clean architecture**.
+
+- ☁️ Cloud Infrastructure & AWS Services  
+- ⚙️ CI/CD Pipelines & Automation  
+- 🐳 Containerized Full-Stack Applications  
+- 🎨 Modern & Responsive Frontend  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🚀 Cloud & DevOps  
-- **AWS** (EC2, IAM, S3, RDS, VPC)  
-- **Docker & Docker Compose**  
-- **CI/CD** (GitHub Actions)  
-- **Linux & Shell Scripting**  
-- **Nginx**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx,terraform,kubernetes" />
+</p>
 
-### ⚙️ Backend & Databases  
-- **Node.js & Express.js**  
-- **MySQL**  
-- **REST APIs**  
-
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- Postman  
-- VS Code  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,mysql,html,css" />
+</p>
 
 ---
 
-## 📦 Featured Projects  
+## 📦 Featured Project  
 
-### 🔹 Full Stack Notes App (Dockerized)
-- React frontend + Express backend  
-- MySQL database  
-- Fully containerized using **Docker & Docker Compose**  
-- Focus on clean API design & container orchestration  
+### 🔹 Full Stack Notes App (Dockerized)  
 
-🔗 **Repo:** https://github.com/nitin9706/Full-stack-notes-app  
+✔ React Frontend  
+✔ Express.js Backend  
+✔ MySQL Database  
+✔ Docker & Docker Compose  
+✔ REST API Architecture  
 
----
-
-### 🔹 DevOps Practice & Automation  
-- Dockerized applications  
-- CI/CD pipeline experiments  
-- Cloud deployment practices  
-
-🔗 **More projects:** https://github.com/nitin9706  
+🔗 **Repository:**  
+https://github.com/nitin9706/Full-stack-notes-app  
 
 ---
 
@@ -67,20 +53,21 @@ I enjoy working with **containers, CI/CD pipelines, cloud infrastructure**, and 
 
 ---
 
-## 🎯 What I'm Currently Focusing On  
+## 🎯 Currently Learning  
 
-- Advanced **AWS services & architecture**  
-- **Kubernetes** fundamentals  
-- Production-grade **CI/CD pipelines**  
-- Infrastructure as Code (IaC)  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 GitHub: https://github.com/nitin9706  
-- 📧 Email: *your-email-here*  
+- ☸️ Kubernetes & Container Orchestration  
+- 🏗️ Advanced AWS Architecture  
+- 🧩 Infrastructure as Code (Terraform)  
+- 🔁 Production-grade CI/CD Pipelines  
 
 ---
 
-⭐ **If you like my work, feel free to star the repositories!**  
+## 🤝 Connect With Me  
+
+- 🔗 GitHub: https://github.com/nitin9706  
+
+⭐ *If you like my work, consider starring the repositories!*
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer"/>

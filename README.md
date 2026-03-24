@@ -1,103 +1,120 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=F97316&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Nitin+Sharma+%F0%9F%91%8B;Cloud+Engineer;DevOps+Engineer;Frontend+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cloud%20Engineer-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20CI%2FCD-blue?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/nitin9706?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/nitin9706?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/last-commit/nitin9706/nitin9706?style=for-the-badge"/>
-</p>
-
----
-
-## ☁️ About Me  
-
-🚀 **Cloud Engineer | DevOps Engineer | Frontend Engineer**  
-
-I design and build **scalable, automated, and cloud-native systems** with a strong focus on **reliability, performance, and clean infrastructure**.
-
-- ☁️ Cloud Infrastructure (AWS)  
-- ⚙️ CI/CD & Automation  
-- 🐳 Dockerized Full-Stack Applications  
-- 🎨 Clean, Responsive Frontend  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx,terraform,kubernetes&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,mysql,html,css&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## 📦 Featured Project  
-
-### 🔹 Full Stack Notes App (Dockerized)  
-
-<p>
-  <img src="https://img.shields.io/github/repo-size/nitin9706/Full-stack-notes-app?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/nitin9706/Full-stack-notes-app?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/nitin9706/Full-stack-notes-app?style=flat-square"/>
-</p>
-
-✔ React Frontend  
-✔ Express.js Backend  
-✔ MySQL Database  
-✔ Docker & Docker Compose  
-✔ RESTful APIs  
-
-🔗 **Repository:**  
-https://github.com/nitin9706/Full-stack-notes-app  
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitin9706&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin9706&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-## 🎯 Currently Learning  
-
-- ☸️ Kubernetes (Advanced Workloads)  
-- 🏗️ AWS System Design  
-- 🧩 Infrastructure as Code (Terraform)  
-- 🔁 Scalable CI/CD Pipelines  
-
----
-
-## 🤝 Connect With Me  
+<h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
+<h3 align="center">Full Stack Developer (MERN)</h3>
 
 <p align="center">
   <a href="https://github.com/nitin9706">
-    <img src="https://img.shields.io/badge/GitHub-nitin9706-black?style=for-the-badge&logo=github"/>
+    <img src="https://komarev.com/ghpvc/?username=nitin9706&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
-⭐ *Star repositories you find useful — it really helps!*
+---
+
+## 🧠 Summary
+
+- Full Stack Developer focused on scalable web applications  
+- Experience building REST APIs and real-time systems  
+- Strong focus on clean architecture and maintainable code  
+- Continuously improving backend and system design skills  
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:8B5CF6,100:020617&height=120&section=footer"/>
+## ⚡ Tech Stack
+
+### 🚀 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript"/>
+</p>
+
+### 🔧 Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-022c22?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-121013?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm"/>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitin9706&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin9706&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nitin9706&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 📈 Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin9706&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://github.com/nitin9706/nitin9706/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Backend performance and API optimization  
+- System design and scalable architecture  
+- Real-time applications  
+
+---
+
+## 📌 Projects
+
+👉 Explore all repositories:  
+https://github.com/nitin9706  
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/nitin9706  
+
+---
+
+## 💼 Open to Opportunities
+
+Available for:
+- Full Stack Development Roles  
+- Backend Development Roles  
+- Freelance / Contract Work  
+
+---
+
+⭐ If you find my work useful, consider starring repositories

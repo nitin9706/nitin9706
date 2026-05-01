@@ -136,14 +136,20 @@ https://github.com/nitin9706/Chat-App
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin9706&theme=tokyo-night&hide_border=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitin9706&theme=react-dark"/>
+</p>
 
 ---
 
 # 🐍 Contributions Snake
 
 <p align="center">
-<img src="https://github.com/nitin9706/nitin9706/blob/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nitin9706/nitin9706/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nitin9706/nitin9706/blob/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://github.com/nitin9706/nitin9706/blob/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---

@@ -127,14 +127,6 @@ Cloud Storage (Cloudinary)
 
 ---
 
-## 🐍 Contributions Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nitin9706/nitin9706/output/github-snake-dark.svg" />
-</p>
-
----
-
 ## 🧩 Engineering Interests
 
 * System Design

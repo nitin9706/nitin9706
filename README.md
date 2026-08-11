@@ -48,6 +48,16 @@ Browser-based utility suite built with TypeScript.
 
 🔗 https://github.com/nitin9706/Free-Tools
 
+### 🚀 Deployify
+
+Frontend deployment platform for web projects.
+
+- Platform for online deployment of frontend apps
+- JavaScript-driven deployment experience
+- Demonstrates DevOps and cloud deployment skills
+
+🔗 https://github.com/nitin9706/Deployify
+
 ---
 
 ## 🧰 Tech Stack

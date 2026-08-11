@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I’m Nitin Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+%26+Cloud+Developer;Backend+Focused+Engineer;Building+Reliable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Backend+Focused+Engineer;Building+Reliable+Web+Apps" />
 </p>
 
 <p align="center">

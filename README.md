@@ -38,15 +38,6 @@ Real-time messaging platform using React, Express, Socket.IO, JWT auth, Cloudina
 
 🔗 https://github.com/nitin9706/Chat-App
 
-### 🧰 Free-Tools
-
-Browser-based utility suite built with TypeScript.
-
-- Tool collection for productivity
-- Clean UI and client-side experience
-- Good platform for frontend work and reusable components
-
-🔗 https://github.com/nitin9706/Free-Tools
 
 ### 🚀 Deployify
 
